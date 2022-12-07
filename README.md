@@ -9,5 +9,5 @@ Goals:
 Achieved:
 - basic html boilerplate building
 - linking with both relative and absolute links!
-- pay attention to typos: <hi> is not the same as <h1>
+- pay attention to typos: hi is not the same as h1
 - practise on git add, commit and push
